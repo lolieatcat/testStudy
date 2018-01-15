@@ -9,10 +9,9 @@ void HelloWord(int bbb)
 {
 	return;
 }
-void test1(int a, int b)
-{
-	return;
-}
-
+heheheheh
+woowowowo
+tatatatat
+ddddddd
 ni nininini
 
