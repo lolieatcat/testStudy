@@ -9,3 +9,8 @@ void HelloWord(int bbb)
 {
 	return;
 }
+void test1(int a, int b)
+{
+	return;
+}
+
