@@ -5,3 +5,7 @@ test the branch 22222;
 
 test 33333333333;
 
+void HelloWord(int bbb)
+{
+	return;
+}
